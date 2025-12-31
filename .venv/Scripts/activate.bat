@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\KURODAHideaki\OneDrive - MOLGROUP.COM\App\src_FastAPI×React\udemy\fastapi_test\.venv
+set VIRTUAL_ENV=C:\Users\kurod\App\FlaskProjects\udemy_fastapi_basic\.venv
 
 if not defined PROMPT set PROMPT=$P$G
 
